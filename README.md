@@ -1,4 +1,4 @@
-# ☕ Tamil Tea Shop — AI WhatsApp Bot & Automation
+# — AI WhatsApp Bot & Automation
 
 An intelligent, full-stack WhatsApp automation bot built for **தமிழ் டீ கடை (Tamil Tea Shop)**. Powered by **Google Gemini AI** and the **Meta WhatsApp Cloud API**, this system automates customer conversations, presents digital menus, takes orders, calculates bill totals, and communicates fluently in **Tamil, Tanglish, and English**.
 
